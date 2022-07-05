@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "193",
+        "InputValue": "w5uWRbtgn71i7ejlHHCiN8OZqXzi882LISFWWLaznaOqByksUPlYaEMhfF41E9Wml5KRe8KUSBWKHrDn9fL9n1dD1vWXcyFP1dZHMAw1IQPSt6NXB4YHJ0YSTzbZAA",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "BSNL"
+    }
+}

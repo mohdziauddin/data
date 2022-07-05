@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "248",
+        "InputValue": "ZST3oR5w8UAC1S7Ym10kAINm8wNQ4KxSRrvjf3Zcg01PbGzWR5CUpbKsENmRbS5vOAOKt2oHazS8jFmset2kIzWZeUhiduP8h1EmAuc3vs7nFU7Tq1meRQxRQYHU4k",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "/data/Bharat101C/Log"
+    }
+}

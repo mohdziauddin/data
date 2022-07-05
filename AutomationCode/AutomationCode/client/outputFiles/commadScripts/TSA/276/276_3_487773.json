@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "276",
+        "InputValue": "Cdg6j3awgiYaOrpe3pIPQ59d1oQM1A1ApS3GkEGVoZYtSzxcxXqD7d24IP7IHhnYlN1WgQZ3rRPonwBRBdr6NBtbE0tp65l4cVxT04QO5MF1pnWTiu81WCa5lhW7hU",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "/data/TS101Basic_C/GNSS/"
+    }
+}

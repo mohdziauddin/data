@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "242",
+        "InputValue": "9t2Q2wzf2kpo8b6FeGX4meNq0aqA3Xo6Vj2Zt4fNlmEzTlCY9qXqA7wP5Pd",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "itblr123"
+    }
+}

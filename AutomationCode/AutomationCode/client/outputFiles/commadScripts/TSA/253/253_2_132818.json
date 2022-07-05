@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "253",
+        "InputValue": "QpCtuosQy0RaBEs7EYzfhPM3iymtS",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "TS101AC_IMEI"
+    }
+}

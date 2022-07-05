@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "245",
+        "InputValue": "VoHbLgvjOcoSYra3jtFHiqYrBTZ9JIYLq1G1ZJORtKfMgFCfMo06WIP0gHlwf7FCj2EBv23gVUQHhZj0yod7nbM3LlmvQ9a1MLc5nrWxKsQCMzBO2jRDzYYn1cjWUmUg",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "ms1.aquilatrack.com"
+    }
+}

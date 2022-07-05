@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "109",
+        "InputValue": "6Qskkw2jF0y71T8h1qqGlaYrfFnpqRdWJBGw4Pw5mKX5bMeVSVdM9T2xUTBo7fhGqDWeXlSE4upZsPjD6zQ3KeEVnwDduX2TS76dRKVas6PSl0o2O09EZqhHmTSSuY",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "pool.ntp.org"
+    }
+}

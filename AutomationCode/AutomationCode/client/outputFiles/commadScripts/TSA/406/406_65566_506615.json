@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "406",
+        "InputValue": "65566",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "10"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "114",
+        "InputValue": "eHjQwVzz1BxiU9FLuqamehmveEOs8UAB4WTDxbbIeNE7gOssJhpT8i2U2nDpTtiyVw77EkSXUlWwSaLZiBOGH4cDbrmv13Q5im5ZDw2bmdhIbB02KupmlT4P7APXDP",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "device.vltsecurity.com"
+    }
+}

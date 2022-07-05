@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "301",
+        "InputValue": "1_20",
+        "ExpectedOutput": "1",
+        "DefaultValue": "1"
+    }
+}

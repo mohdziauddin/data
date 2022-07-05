@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "276",
+        "InputValue": "FhH9dQaVEBMcaTfz9UEzBKVrXEfwyi1IfLywQgdls1dsMUQ9etLKhM3C47Nm3656tokRaLxQmij00PrpjWOYaYzyp3ay28yKq5KxezPUVSGXEYx8xwDiFHZGmmlfOY",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "/data/Bharat101C/GNSS/"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "212",
+        "InputValue": "20",
+        "ExpectedOutput": "1",
+        "DefaultValue": "iTriangle"
+    }
+}

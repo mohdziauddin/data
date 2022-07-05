@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "274",
+        "InputValue": "q6ScLvNlLsO3uXEX8F32weDHHUGrcZqLmD5Gp6yeJCV4EKfNhYjE365ZaeX8CPFl0FxNWidfNCizLWVqty3rZFydySz6oII4qEm0NBVw9mslNedmHgvEzVTCu3TFzkR",
+        "ExpectedOutput": "1",
+        "DefaultValue": "/data/Bharat101C/Controller/"
+    }
+}

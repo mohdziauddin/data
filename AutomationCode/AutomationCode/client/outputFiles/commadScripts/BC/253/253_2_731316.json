@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "253",
+        "InputValue": "86Cz2kf7dg8b1l5g6dZdzXj61Slki",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "BH101C_IMEI"
+    }
+}

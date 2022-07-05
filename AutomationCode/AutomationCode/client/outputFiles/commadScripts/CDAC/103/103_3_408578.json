@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "103",
+        "InputValue": "VsdyBYqDBqbkT6JxZrQJ4bWXxJoyKyl4zwXjeMZIP2twVWhN6jaEujKr3Kw31mlLrLkAyL1ZFIx4t4FoK90v6wngcGfOcJp1R39jCtULcdBB5s7Pdyty306MZUa8qO",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "taisysnet"
+    }
+}

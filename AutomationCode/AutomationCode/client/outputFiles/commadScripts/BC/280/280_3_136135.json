@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "280",
+        "InputValue": "aykNPKUTnJWQzGaERtDelYQ7hPD3tWT7wrropJHKUQVRPHBQn2rsot9SdoOJb9iFyPvImsAqYbgrucKU8VqrOQgN45vzPX3uYIEGLxaJck2OEfFF23rfaFS4XuRw0k",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "/data/Bharat101C/FTP_Cert/"
+    }
+}

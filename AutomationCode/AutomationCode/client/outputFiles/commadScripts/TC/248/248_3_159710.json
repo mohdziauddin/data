@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "248",
+        "InputValue": "VdUiXELzTLtRV4U7leEU6LB3RRYeKusUIre3mhtpQfZ9bB82QhiXzQkHYCtGd8Ok07cPEFFcHPDMvA6ORlfbvCqEzvVumm6jUCZ3VEHG7DklxwmOaO4znSKENuE6Xv7",
+        "ExpectedOutput": "1",
+        "DefaultValue": "/data/TS101Basic_C/Log"
+    }
+}

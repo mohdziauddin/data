@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "163",
+        "InputValue": "vGOFo3ULna7nq55Y9H6oi08uaOlXb72whrQndiiiEfZcJcxhnxmXv9zlwEEsv",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "CLIENT_1ZF"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "278",
+        "InputValue": "4hyWAuKxc2vqaHyAWN0XVCuTBwTbCDG3wSw6zi98FZkgvf5BWrzxJULRsiHzCRUJV0a1jele09Kao598ILBEToTjHVFWjNQltmO68O1ZxUVw45PmumSsEw0EN8xDdow",
+        "ExpectedOutput": "1",
+        "DefaultValue": "/data/Bharat101C/S1_Cert/"
+    }
+}

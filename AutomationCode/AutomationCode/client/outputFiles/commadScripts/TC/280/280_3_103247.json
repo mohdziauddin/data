@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "280",
+        "InputValue": "6uzB6KANvRKRgDdXEgAZ0Q7CHlp92BqqxpMNTb6oRbHql6vbBXqZnq6PwN0tbLJZp4LG2W3MoNuO2eI1Ygjgtsqk2zULbCJrDciD1od4U0bvwMylbMutmoCsge7QYJD",
+        "ExpectedOutput": "1",
+        "DefaultValue": "/data/TS101Basic_C/FTP_Cert/"
+    }
+}

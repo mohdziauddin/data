@@ -1,0 +1,9 @@
+{
+    "Dependency": null,
+    "TestCases": {
+        "InputKey": "282",
+        "InputValue": "HoujFDFssGty6jrzRlGfqIow8e3h08eOi2k1sIOj53rhKdKKnLZNRboZ0CnLSkrVC0KD5pUaZG097l56hMjkF7AsWptkI9gusDX3CqYNGlvAozyhwGAo20RINsfJX9",
+        "ExpectedOutput": "-2",
+        "DefaultValue": "/data/TS101Basic_C/M_Cert/"
+    }
+}
